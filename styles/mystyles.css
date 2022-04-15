@@ -1,0 +1,58 @@
+big, .big{
+    font-size: 300;
+}
+
+.xlarge{
+    font-style: oblique;
+    font-size: x-large;
+}
+
+.medium{
+    font-style: oblique;
+    font-size: medium;
+}
+
+.large{
+    font-style: oblique;
+    font-size: large;
+}
+
+.white{
+    color: white;
+}
+
+.black{
+    color:black
+}
+
+.bgcolor{
+    background-color: rgb(161, 152, 139);
+}
+
+.italic{
+    font-style: italic;
+}
+
+.font1{
+    font-style: oblique;
+}
+
+.lisize{
+    font-size: larger;
+}
+
+.ulsize{
+    font-size: medium;
+}
+
+.boldd{
+    font-weight: bolder;
+}
+
+.blue{
+    color: rgb(204, 204, 255);
+}
+
+.lgrey{
+    color: lightgray;
+}

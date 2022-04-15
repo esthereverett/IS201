@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(102, 76, 43);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-align: center;
+}
+
+.common{
+    position: absolute;
+}
+
+.header{
+    background-color: blanchedalmond;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.mainbody{
+    margin-top: 15px;
+    top: 110px;
+    left: 5px;
+    right: 5px;
+    height: 3135px;
+    bottom: 110px;
+    color: blanchedalmond;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.footer{
+    background-color: blanchedalmond;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    height: 100px;
+    font-size: small;
+    color: grey;
+    position: fixed;
+}
+
+.q1-4{
+    width: 70%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.q1{
+    margin-top: 200px;
+}
+
+.black{
+    color: black;
+}
+
+.descriptionboxes{
+    background-color: blanchedalmond;
+    color: black;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
