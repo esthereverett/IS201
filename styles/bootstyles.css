@@ -33,13 +33,10 @@ body{
 
 .footer{
     background-color: blanchedalmond;
-    left: 5px;
-    right: 5px;
-    bottom: 5px;
     height: 100px;
     font-size: small;
     color: grey;
-    position: fixed;
+    position: relative;
 }
 
 .q1-4{
